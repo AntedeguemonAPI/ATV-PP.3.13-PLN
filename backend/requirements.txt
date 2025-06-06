@@ -1,3 +1,6 @@
 flask
 scikit-learn
 numpy
+spacy
+pyspellchecker
+spacy[pt]
